@@ -1,0 +1,31 @@
+.my-container {
+  font-family: Arial, sans-serif;
+}
+
+.content-wrapper {
+  margin-top: 60px;
+}
+
+.form-col h2 {
+  color: #007bff; 
+}
+
+.add-todo-form .form-control {
+  margin-bottom: 10px;
+}
+
+
+.btn-success {
+  width: 100%; 
+  margin: 10px 0; 
+}
+
+
+
+.edit-date {
+  margin-top: 10px;
+}
+
+.ListGroup-item {
+  cursor: pointer;
+}
